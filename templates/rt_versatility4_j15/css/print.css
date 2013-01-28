@@ -1,0 +1,5 @@
+/*body, body.f-default, #page,body#ff-helvetica p, body#ff-helvetica td p, #ff-helvetica, body#ff-helvetica, #ff-helvetica td {font-family:Times New Roman, serif; font-weight:normal: font-size:16px;}*/
+body, body.f-default, body.f-default td p {font-size: 18px;font-family:Times New Roman, serif; font-weight:normal;}
+h1, h2, h3, h4, h5, h1.contentheading, h1.componentheading, h2.contentheading, h2.componentheading, td.contentheading{font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+#header-bar, #horiz-menu, .showcase-module2, .footer-module, img.nopadding{display:none;}
+#leftcol, #rightcol, .showcase-module, #horiz-menu, #sub-menu, #main-body, #header-bar, #bottom-menu, .footer-module{border:none;}

@@ -11,6 +11,7 @@
 <link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/css/<?php echo $mstyle; ?>.css" rel="stylesheet" type="text/css" />
 <link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/css/<?php echo $tstyle; ?>.css" rel="stylesheet" type="text/css" />
 <link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/css/typography.css" rel="stylesheet" type="text/css" />
+<link href="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template?>/css/print.css" rel="stylesheet" type="text/css" media="print" />
 <link href="<?php echo $this->baseurl ?>/templates/system/css/system.css" rel="stylesheet" type="text/css" />
 <link href="<?php echo $this->baseurl ?>/templates/system/css/general.css" rel="stylesheet" type="text/css" />
 <?php if($show_moduleslider=="true" and $js_compatibility=="false") : ?>
