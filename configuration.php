@@ -1,4 +1,5 @@
 <?php
+// this is a test
 class JConfig {
 	var $offline = '0';
 	var $editor = 'wysiwygPro3';
